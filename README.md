@@ -45,4 +45,3 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 ---
 
 ![Cute Anime GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgxbmFzOWJ0bTAyanRhbGVoenN4dmZ2bzkzNTRrcTZ2bnpqYXo5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB2szZH5JSIU0/giphy.gif).
-![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBsYzM5a3IwcTF3Z2p0cXlidm80dnYxazBsNm9ndzVubTNrdnBhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qR1fIvTV6hN16/giphy.gif)
