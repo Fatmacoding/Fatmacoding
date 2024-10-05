@@ -36,9 +36,9 @@ I believe that great design is more than just aesthetics—it's about creating a
 ## 👩‍💻 Let's Collaborate!
 I'm always open to collaborating on interesting projects. Feel free to reach out if you'd like to work together!
 
-- (https://www.linkedin.com/in/fatma-massou)
-- (https://x.com/FatmaMassou)
-- (https://www.instagram.com/FatmaMassou/)
+- https://www.linkedin.com/in/fatma-massou
+- https://x.com/FatmaMassou
+- https://www.instagram.com/FatmaMassou/
 
 ## 👩‍💻 Contact ME!
 - massoufatima23@gmail.com
