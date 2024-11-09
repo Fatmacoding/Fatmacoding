@@ -10,7 +10,7 @@
 - *Tools & Databases:* MySQL Workbench, phpMyAdmin
 - *Other Skills:* Machine Learning, Object-Oriented Programming (OOP), JSON, Data Structures, Algorithms, Website Hosting
 
-![Tech Logos](https://skillicons.dev/icons?i=php,laravel,mysql,js,react,ajax,git,figma,html,css,bootstrap,python,starUml&theme=light)
+![Tech Logos](https://skillicons.dev/icons?i=php,laravel,mysql,js,react,Ajax,git,figma,html,css,bootstrap,python,starUml&theme=light)
 
 ## 🤖 Machine Learning & Python Projects
 I'm deeply interested in machine learning and enjoy exploring its potential through Python. I've worked on projects like *face recognition*, and I'm always excited to dive into new challenges that involve data and AI.
