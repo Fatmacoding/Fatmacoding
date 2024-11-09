@@ -11,7 +11,8 @@
 - *Other Skills:* Machine Learning, Object-Oriented Programming (OOP), JSON, Data Structures, Algorithms, Website Hosting
 
 ![Tech Logos](https://skillicons.dev/icons?i=php,laravel,mysql,js,react,AJAX,git,figma,html,css,bootstrap,python,starUml&theme=light)
-
+![StarUML](https://img.shields.io/badge/StarUML-333333?style=for-the-badge&logo=data:image/svg+xml;base64,...)  
+![Ajax](https://img.shields.io/badge/Ajax-1476ff?style=for-the-badge&logo=ajax&logoColor=white)
 ## 🤖 Machine Learning & Python Projects
 I'm deeply interested in machine learning and enjoy exploring its potential through Python. I've worked on projects like *face recognition*, and I'm always excited to dive into new challenges that involve data and AI.
 
